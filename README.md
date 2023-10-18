@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miinjunn&label=Profile%20views&color=0e75b6&style=flat" alt="miinjunn" /> </p>
 
-<img align="right" alt="blender_juice" src="github profile 1on1.gif">
+<img align="right" alt="blender_juice" src="https://res.cloudinary.com/dyjqybnpm/image/upload/v1697602729/daxpmdrtq9njakhokpwx.gif" style="border-radius:1.4rem">
 
 - 🔭 I’m currently working on **AES-128 and CLEFIA-128 App**
 

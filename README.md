@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Munjin Nashida 👋</h1>
 <h3 align="center">A passionate developer from 12Kdr</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=miinjunn&label=Profile%20views&color=0e75b6&style=flat" alt="miinjunn" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=miinjunn&label=Profile%20views&color=0e75b6&style=flat-square" alt="miinjunn" /> </p>
 
 <img align="right" alt="blender_juice" width="300" src="https://res.cloudinary.com/dyjqybnpm/image/upload/v1697602729/daxpmdrtq9njakhokpwx.gif" style="border-radius:1.4rem">
 
@@ -24,6 +24,6 @@
 
 ![Spotify Recent Played](https://spotify-recently-played-readme.vercel.app/api?user=31h7xive7gphvfmfnkdrg6je5g2i&count=1)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miinjunn&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="miinjunn" /></p>
+<p><img align="left" width="340" src="https://github-readme-stats.vercel.app/api/top-langs?username=miinjunn&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="miinjunn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miinjunn&show_icons=true&theme=tokyonight&locale=en" alt="miinjunn" /></p>
+<p>&nbsp;<img align="center" width="386" src="https://github-readme-stats.vercel.app/api?username=miinjunn&show_icons=true&theme=tokyonight&locale=en" alt="miinjunn" /></p>

@@ -24,4 +24,4 @@
 
 <p><img align="left" width="340" src="https://github-readme-stats.vercel.app/api/top-langs?username=miinjunn&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="miinjunn" /></p>
 
-<p>&nbsp;<img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=miinjunn&show_icons=true&theme=tokyonight&locale=en" alt="miinjunn" /></p>
+<p>&nbsp;<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=miinjunn&show_icons=true&theme=tokyonight&locale=en" alt="miinjunn" /></p>
